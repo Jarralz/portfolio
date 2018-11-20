@@ -11,6 +11,7 @@
   "author": "Mohsin Ijaz",
   "license": "MIT",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3",
     "node-sass-import": "^2.0.1"
   }
